@@ -1,6 +1,3 @@
-// import Todoinput from "./component/Todoinput";
-// // import Todolist from "./component/Todolist"
-
 import { useState, useEffect } from "react";
 import "./App.css";
 const url = "http://localhost:8080"
