@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-const url = "https://todo-mern-server-ahma.onrender.com"
+const url = "https://todo-mern-server-hxml.onrender.com"
 
 function App() {
   const [todos, setTodos] = useState([]);
